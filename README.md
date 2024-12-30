@@ -1,7 +1,7 @@
 # public-document
 
-This contains various public documents.
+This repository contains various public documents.
 
 you can clone it
 
-      git clone https://github.com/tianlinwang/publec-document
+      git clone https://github.com/tianlinwang/public-document
