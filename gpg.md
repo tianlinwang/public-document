@@ -11,7 +11,7 @@ GNU Privacy Guard
 
 - Exporting a public key
 
-      gpg --output alice.gpg --export alice@cyb.org
+      gpg --output alice.gpg --export tianlin.w@gmail.com
       gpg --output alice.pub --armor --export alice@cyb.org
 
 - Importing a public key
