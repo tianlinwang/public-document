@@ -16,11 +16,11 @@ GNU Privacy Guard
 
 - Importing a public key
 
-      gpg --import blake_pub.gpg
+      gpg --import tianlin_pub.gpg
 
 - Encrypting and decrypting documents
 
-      gpg --output doc.gpg --encrypt --recipient blake@cyb.org doc
+      gpg --output doc.gpg --encrypt --recipient tianlin.w@gmail.com doc
       gpg --output doc --decrypt doc.gpg
 
 - Making and verifying signatures
